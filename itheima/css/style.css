@@ -42,7 +42,7 @@ ul{
     margin: 0 auto;
 }
 
-.btn{
+.slider .btn{
     position: absolute;
     top:50%;
     width: 60px;
